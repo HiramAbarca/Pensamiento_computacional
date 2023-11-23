@@ -1,0 +1,40 @@
+Pasos para empezar a programar
+Calcular la edad de una persona
+
+1 inicio (como debe de iniciar un programa)
+
+2 definir (son los datos o variables, asi como el tipo que se va a utilizar) 
+	snapecase(es cuando lleva un guion bajo en una variable) 
+	camelcase(es cuando la variable lleva una mayuscula en lugar de espacio) 
+	uppercase(cuando la variable inicia con mayuscula)
+	char(cuando solo es una letra)
+	string(cuando es mas de un caracter)
+
+	Ejemplo:
+	año_nac(int)
+	año_act(int)
+	edad(int)
+	nombre(str)	
+
+3 asignar	año_act=2023
+4 escribir(nos ayuda para pedirle al usuario que capture algun dato o mensaje)
+	todo lo que se tiene que ingresar debe ir entre comillas("")
+	Ejemplo:
+	"Ingresa tu nombre"
+
+5 asignar en la variable correspondiente
+	Ejemplo:
+	asignar en "nombre"
+	
+6 escribir "Ingresa tu año de nacimiento",nombre
+
+7 asigno en año_nac
+
+8 operacion u operacion de datos
+
+	Ejemplo
+	edad= año_act - año_nac
+
+9 Escribir nombre,"Tu edad es de ",edad, "años"
+
+10 Fin
