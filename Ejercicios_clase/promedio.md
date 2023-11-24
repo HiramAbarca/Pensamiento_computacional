@@ -20,18 +20,25 @@
 
 6 Escribir 
   "Ingrese Calificacion de Español: "
+  
 7 Asignar en 
   calif_esp
+  
 8 Escribir
   "Ingrese Calificacion de Matematicas: "
+  
 9 Asignar en
   calif_mat
+  
 10 Escribir
   "Ingrese Calificacion de Ingles: "
+  
 11 Asignar en
   calif_ing
+  
 12 Escribir
   "Ingrese Calificacion de Fisica: "
+  
 13 Asignar en
   calif_fis
 
