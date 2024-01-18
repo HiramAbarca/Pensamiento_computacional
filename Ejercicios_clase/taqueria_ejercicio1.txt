@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Taqueria "El Fogón"🌮</title>
+</head>
+<body>
+    <header>
+        <!-- Logotipo -->
+        <img src="img/OIP.jpg" alt="Logo" width="50px">
+        <!-- Titulo de la página -->
+        <h1>Taquería "El Fogón"</h1>
+        <nav>
+            <!-- Menu -->
+            <ul>
+                <li><a href="#">Inicio</a></li>
+                <li><a href="#">Acerca de</a></li>
+                <li><a href="#">Menu</a></li>
+                <li><a href="#">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Acerca de Nosotros</h2>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/nnDFvSvhaSA?si=oHcGxB0PfiToEHEl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae perferendis molestias labore non aut hic alias totam fuga excepturi quasi temporibus, neque repellat corporis, itaque ab consectetur voluptatibus? Enim sed voluptas laudantium maxime eligendi. Officia earum, deserunt sequi voluptatum doloribus illum mollitia sint autem illo dolor ullam architecto obcaecati! Quia cupiditate laudantium voluptates distinctio quis nulla quibusdam deleniti ad beatae quidem, eum praesentium rem esse maxime soluta dolorum non ducimus cum eius saepe, consectetur sapiente magnam. Iure excepturi eligendi fuga provident est cumque pariatur molestias quibusdam perferendis consequatur, impedit laboriosam hic quisquam nesciunt, itaque reprehenderit, dolorem nulla tenetur minima? Quaerat.</p>
+        </section>
+        <section>
+
+        </section>
+    </main>
+    <footer>
+
+    </footer>
+</body>
+</html>
